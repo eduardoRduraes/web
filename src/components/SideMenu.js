@@ -1,8 +1,6 @@
 import React from 'react';
 import {withStyles} from '@material-ui/styles';
 
-// import { Container } from './styles';
-
 const style = {
     sideMenu: {
     display: 'flex',

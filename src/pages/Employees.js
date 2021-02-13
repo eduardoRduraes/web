@@ -1,6 +1,6 @@
 import React from 'react';
-import PageHeader from '../../components/PageHeader';
-import EmployeesForm from '../EmployeesForm';
+import PageHeader from '../components/PageHeader';
+import EmployeesForm from './EmployeesForm';
 
 import PeopleOutlineTwoToneIcon from '@material-ui/icons/PeopleOutlineTwoTone';
 import { Paper } from '@material-ui/core';
