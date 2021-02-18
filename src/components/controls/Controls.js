@@ -1,6 +1,6 @@
 import RadioGroup from "../controls/RadioGroup";
 import Input from "../controls/Input";
-import Select from "../controls/Select";
+import {Select}from "../controls/Select";
 
 const Controls = {
   Input,
